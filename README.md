@@ -4,6 +4,6 @@ Exciting news! I'm starting the #100DaysOfCode challenge today with the goal of 
 
 This challenge is not only an opportunity for me to improve my coding skills but also a chance to push myself to consistently dedicate time each day to my personal and professional growth. I'm committed to learning as much as I can over the next 100 days, and I'm looking forward to sharing my progress with you all along the way.
 
-If you're also on this journey or interested in following my progress, make sure to check out my GitHub repository [insert your repository link], where I'll be sharing daily updates on my progress.
+If you're also on this journey or interested in following my progress, make sure to check out my GitHub repository, where I'll be sharing daily updates on my progress.
 
 Let's learn and grow together! 💻 #100DaysOfCode #FullStackWebDevelopment 
