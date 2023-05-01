@@ -20,7 +20,7 @@ Day 0 was all about laying the foundation for my journey towards becoming a Full
 
 ### Progress
 
-I will be tracking my progress on this GitHub repository. Here's the link to my Day 0 log: [insert link to Day 0 log]
+I will be tracking my progress on this GitHub repository.
 
 Looking forward to Day 1!
 
