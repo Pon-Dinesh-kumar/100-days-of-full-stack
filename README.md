@@ -7,3 +7,9 @@ This challenge is not only an opportunity for me to improve my coding skills but
 If you're also on this journey or interested in following my progress, make sure to check out my GitHub repository, where I'll be sharing daily updates on my progress.
 
 Let's learn and grow together! 💻 #100DaysOfCode #FullStackWebDevelopment 
+
+### Links
+
+- [Meta Front-End Developer Professional Certificate](https://www.coursera.org/professional-certificates/meta-front-end-developer)
+- [LinkedIn](https://www.linkedin.com/in/m-pon-dinesh-kumar-9837b8251)
+- [Twitter](https://twitter.com/pondineshkumar)
