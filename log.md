@@ -24,3 +24,30 @@ I will be tracking my progress on this GitHub repository.
 
 Looking forward to Day 1!
 
+## Day 1 [ 02.05.2023 ] - Full Stack Web Developement
+
+Today was Day 1 of my #100DaysOfCode challenge and it was filled with lots of new concepts and tools to learn about. Here's what I covered today:
+
+- Web Hosting: learned about different types of web hosting services and how to choose the right one for my needs.
+- Internet Protocol (IP): learned about how IP addresses work and the role they play in accessing websites and other online services.
+- HTTP and HTTPS: learned about the difference between HTTP and HTTPS and why secure connections are important for online privacy and security.
+- Website vs. Webpage vs. Web Application: learned about the difference between websites, webpages, and web applications and their unique features.
+- Developer Tools: learned about the various tools and utilities available to developers for debugging, testing, and optimizing websites and web applications.
+- Frameworks and Libraries: learned about popular front-end frameworks and libraries like React, Angular, and jQuery and their use cases.
+- APIs and Services: learned about APIs and web services and how to use them to access data and functionality from external sources.
+- IDE: learned about different Integrated Development Environments (IDEs) available to web developers and their features.
+
+In addition to learning all of this new information, I also got hands-on experience with some of the concepts by editing webpage content using developer tools to inspect elements and modify them in real-time.
+
+## Thoughts
+
+I found Day 1 to be very exciting and informative. It's amazing how many different components are involved in building a web application, and I'm looking forward to diving deeper into each one of them. One of the things that really stood out to me was the importance of security and privacy when it comes to online data. Learning about HTTPS and its role in encrypting data in transit has definitely made me more conscious of the need for secure connections.
+
+Overall, I'm feeling motivated and excited to continue my #100DaysOfCode challenge and see how far I can go. Bring on Day 2!
+
+## Links
+
+- [Meta Front-End Developer Professional Certificate](https://www.coursera.org/professional-certificates/meta-front-end-developer)
+- [LinkedIn](https://www.linkedin.com/in/m-pon-dinesh-kumar-9837b8251)
+- [Twitter](https://twitter.com/pondineshkumar)
+
