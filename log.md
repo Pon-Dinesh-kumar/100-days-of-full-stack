@@ -51,3 +51,29 @@ Overall, I'm feeling motivated and excited to continue my #100DaysOfCode challen
 - [LinkedIn](https://www.linkedin.com/in/m-pon-dinesh-kumar-9837b8251)
 - [Twitter](https://twitter.com/pondineshkumar)
 
+## Day 2 [ 03.05.2023 ] - Full Stack Web Developement
+
+## Topics Covered
+- What is Hyper Text Markup Language?
+- HTML documents
+- Simple HTML tags
+- Linking documents
+- Adding images to a webpage with HTML
+
+## Tasks Completed
+- Created my first "Hello World" website using Visual Studio Code
+
+## Thoughts
+Day 2 of my #100DaysOfCode challenge was focused on getting deeper into HTML and building my first local website. I learned about the basics of HTML, simple tags, linking documents, and adding images to a webpage. It was exciting to see how quickly I could create a basic website with just a few lines of code.
+
+I used Visual Studio Code to create my "Hello World" website, and it was a great experience. The editor is powerful yet easy to use, and I was able to quickly see the results of my changes in the browser. I'm looking forward to using it more in the future.
+
+As I continue with the challenge, I'm excited to explore more complex HTML concepts and start building more robust websites. Stay tuned for more updates!
+
+#100DaysOfCode #webdevelopment #coding #HTML #VisualStudioCode
+
+## Links
+
+- [Meta Front-End Developer Professional Certificate](https://www.coursera.org/professional-certificates/meta-front-end-developer)
+- [LinkedIn](https://www.linkedin.com/in/m-pon-dinesh-kumar-9837b8251)
+- [Twitter](https://twitter.com/pondineshkumar)
