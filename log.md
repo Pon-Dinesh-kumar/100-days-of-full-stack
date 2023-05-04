@@ -77,3 +77,32 @@ As I continue with the challenge, I'm excited to explore more complex HTML conce
 - [Meta Front-End Developer Professional Certificate](https://www.coursera.org/professional-certificates/meta-front-end-developer)
 - [LinkedIn](https://www.linkedin.com/in/m-pon-dinesh-kumar-9837b8251)
 - [Twitter](https://twitter.com/pondineshkumar)
+
+
+## Day 3 [ 04.05.2023 ] - Full Stack Web Development
+
+### Topics Covered:
+- HTML data tables
+- HTML forms
+- Introduction to the Document Object Model (DOM)
+- Web accessibility
+
+### Accomplishments:
+- Learned how to create tables in HTML and use them to organize data on a webpage
+- Explored HTML forms and how they can be used to collect user input
+- Learned about the Document Object Model (DOM), a programming interface for web documents
+- Gained a better understanding of how to add interactivity to web pages using the DOM
+- Explored the importance of web accessibility and learned how to design websites that are usable by all users, including those with disabilities
+
+### Thoughts:
+Learning about web accessibility was eye-opening and I'm excited to continue exploring this topic. As a developer, it's important to create websites that are user-friendly and accessible to all users, and I'm grateful to have the opportunity to learn about this aspect of web development.
+
+Overall, Day 3 was a great day of learning and I'm excited to continue building my web development skills. Stay tuned for more updates!
+
+#100DaysOfCode #webdevelopment #coding #HTML #accessibility
+
+## Links
+
+- [Meta Front-End Developer Professional Certificate](https://www.coursera.org/professional-certificates/meta-front-end-developer)
+- [LinkedIn](https://www.linkedin.com/in/m-pon-dinesh-kumar-9837b8251)
+- [Twitter](https://twitter.com/pondineshkumar)
