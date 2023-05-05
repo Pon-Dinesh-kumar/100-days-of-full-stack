@@ -106,3 +106,37 @@ Overall, Day 3 was a great day of learning and I'm excited to continue building 
 - [Meta Front-End Developer Professional Certificate](https://www.coursera.org/professional-certificates/meta-front-end-developer)
 - [LinkedIn](https://www.linkedin.com/in/m-pon-dinesh-kumar-9837b8251)
 - [Twitter](https://twitter.com/pondineshkumar)
+
+# Day 4 [ 05.05.2023 ] - Full Stack Web Developement
+
+###Topics Covered:
+- CSS Basics 
+- Selecting and Styling
+- Different Types Of Selectors
+- Text and Color in CSS
+- Box Model Introduction
+- Block vs Inline
+- -Alignment Basics
+
+## Accomplishments
+- Learned how to select and style elements in CSS
+- Explored different types of selectors, including class and ID selectors
+- Learned about text and color styling in CSS
+- Introduction to the box model, including width, height, padding, and borders
+- Explored block vs inline elements and how to align elements on a webpage
+- Had fun experimenting with changing CSS styles and testing them interactively
+
+## Thoughts
+- Excited to continue building my CSS skills and exploring more advanced concepts
+- Looking forward to incorporating CSS into my web development projects and creating visually appealing websites
+
+Stay tuned for more updates on my #100DaysOfCode journey! 
+
+#webdevelopment #coding #CSS #frontend
+
+## Links
+
+- [Meta Front-End Developer Professional Certificate](https://www.coursera.org/professional-certificates/meta-front-end-developer)
+- [LinkedIn](https://www.linkedin.com/in/m-pon-dinesh-kumar-9837b8251)
+- [Twitter](https://twitter.com/pondineshkumar)
+
