@@ -109,7 +109,7 @@ Overall, Day 3 was a great day of learning and I'm excited to continue building 
 
 # Day 4 [ 05.05.2023 ] - Full Stack Web Developement
 
-###Topics Covered:
+## Topics Covered:
 - CSS Basics 
 - Selecting and Styling
 - Different Types Of Selectors
