@@ -116,7 +116,7 @@ Overall, Day 3 was a great day of learning and I'm excited to continue building 
 - Text and Color in CSS
 - Box Model Introduction
 - Block vs Inline
-- -Alignment Basics
+- Alignment Basics
 
 ## Accomplishments
 - Learned how to select and style elements in CSS
@@ -140,3 +140,38 @@ Stay tuned for more updates on my #100DaysOfCode journey!
 - [LinkedIn](https://www.linkedin.com/in/m-pon-dinesh-kumar-9837b8251)
 - [Twitter](https://twitter.com/pondineshkumar)
 
+## Day 5 [ 06.05.2023 ] - Full Stack Web Developement
+
+Today's focus was on learning about UI frameworks and libraries. I covered the following topics:
+
+- Working with libraries
+- Introduction to responsive design
+- Bootstrap
+- Using Bootstrap styles
+- Bootstrap grid
+- Bootstrap components
+- Using Bootstrap documentation
+- Other CSS frameworks and libraries
+
+I learned about the benefits of using UI frameworks and libraries to simplify the process of building responsive websites. I also explored Bootstrap, one of the most popular UI frameworks, and how to use its styles, grid system, and components.
+
+Furthermore, I learned about responsive design and how it enables websites to adapt to different screen sizes, such as those on mobile devices.
+
+Overall, it was a productive day of learning and I'm excited to continue exploring UI frameworks and libraries. 
+
+### Accomplishments:
+- Learned how to use Bootstrap to simplify the process of building responsive websites
+- Explored the benefits of using UI frameworks and libraries
+
+### Thoughts:
+Working with Bootstrap was a great experience. I found it to be a powerful tool that can greatly simplify the process of building responsive websites. I'm looking forward to exploring other CSS frameworks and libraries to see how they can further enhance my web development skills.
+
+Stay tuned for more updates on my #100DaysOfCode journey! 
+
+#webdevelopment #coding #CSS #frontend
+
+## Links
+
+- [Meta Front-End Developer Professional Certificate](https://www.coursera.org/professional-certificates/meta-front-end-developer)
+- [LinkedIn](https://www.linkedin.com/in/m-pon-dinesh-kumar-9837b8251)
+- [Twitter](https://twitter.com/pondineshkumar)
