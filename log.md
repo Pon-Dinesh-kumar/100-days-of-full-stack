@@ -175,3 +175,36 @@ Stay tuned for more updates on my #100DaysOfCode journey!
 - [Meta Front-End Developer Professional Certificate](https://www.coursera.org/professional-certificates/meta-front-end-developer)
 - [LinkedIn](https://www.linkedin.com/in/m-pon-dinesh-kumar-9837b8251)
 - [Twitter](https://twitter.com/pondineshkumar)
+
+# Day 6 [ 07.05.2023 ] - Full Stack Web Development 
+
+## Today's Progress
+
+Today I focused on learning the fundamentals of React, including:
+
+- Static and dynamic content
+- Single page applications
+- What is React?
+- How React works
+- Case study on why Facebook engineers created React
+
+## Thoughts
+
+Day 6 was a great introduction to React, and I'm excited to dive deeper into this powerful library. I was particularly interested in learning about React's approach to building single page applications and its virtual DOM, which allows for efficient rendering of dynamic content. I also enjoyed learning about the history and motivations behind React's creation.
+
+## Accomplishments
+
+- Learned the basics of React
+- Studied a case study on why Facebook engineers created React
+
+## Links
+
+- [React](https://reactjs.org/)
+- [React documentation](https://reactjs.org/docs/getting-started.html)
+
+## Progress
+
+I will be tracking my progress on this GitHub repository.
+
+Looking forward to Day 7!
+
