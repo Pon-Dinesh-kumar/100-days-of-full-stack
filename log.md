@@ -208,3 +208,25 @@ I will be tracking my progress on this GitHub repository.
 
 Looking forward to Day 7!
 
+
+# Day 7 [ 07.05.2023 ] - Front End Web Development
+
+## Today's Progress
+- Learned about the Virtual DOM and how it differs from the regular DOM.
+- Studied the importance of Component hierarchy and how it can help in managing and scaling larger applications in React.
+- Explored some alternatives to React, such as Vue.js and Angular.
+- Read about UI frameworks in general and how they can be helpful in building responsive and user-friendly websites.
+
+## Thoughts
+Day 7 was all about diving deeper into the world of React. I found the Virtual DOM concept very interesting and was able to grasp the importance of Component hierarchy in building large applications. Additionally, it was helpful to learn about some alternatives to React and understand more about the role of UI frameworks in web development.
+
+## Links
+- Vue.js: https://vuejs.org/
+- Angular: https://angular.io/
+- Materialize CSS: https://materializecss.com/
+
+## Progress
+I will be tracking my progress on this GitHub repository.
+
+Looking forward to Day 8!
+
