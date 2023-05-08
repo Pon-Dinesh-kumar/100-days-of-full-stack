@@ -209,7 +209,7 @@ I will be tracking my progress on this GitHub repository.
 Looking forward to Day 7!
 
 
-# Day 7 [ 07.05.2023 ] - Front End Web Development
+# Day 7 [ 08.05.2023 ] - Front End Web Development
 
 ## Today's Progress
 - Learned about the Virtual DOM and how it differs from the regular DOM.
