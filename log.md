@@ -230,3 +230,24 @@ I will be tracking my progress on this GitHub repository.
 
 Looking forward to Day 8!
 
+# Day 8 - [09.05.2023] - React Deep Dive
+
+## Today's Progress
+- Learned about JSX, React Router, Redux, React Hooks, Server-side Rendering, and Performance Optimization in React.
+- Watched Facebook's React Launch Presentation video from 2013, which was very insightful.
+- Completed several coding challenges using React.
+
+## Thoughts
+Today was an exciting day as I dived deep into the world of React. It was amazing to learn about JSX, a syntax extension for JavaScript, which makes it easier to write and read React code. Additionally, I learned about the various React libraries, including React Router, Redux, and React Hooks, which are essential for building scalable and maintainable applications.
+
+I also learned about server-side rendering and performance optimization in React, which was fascinating. And the icing on the cake was the Facebook React Launch Presentation video, which gave me a better understanding of why React was created and how it evolved over time.
+
+## Links
+- [Facebook React Launch Presentation Video](https://youtu.be/XxVg_s8xAms)
+
+## Progress
+I will be tracking my progress on this GitHub repository.
+
+Looking forward to Day 9!
+
+
