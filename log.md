@@ -250,4 +250,23 @@ I will be tracking my progress on this GitHub repository.
 
 Looking forward to Day 9!
 
+# Day 9 [ 10.05.2023 ] - Bootsrtap
+
+## Today's Progress
+Today, I spent time revisiting all the topics I have covered so far in my #100DaysOfCode challenge. I also worked with Bootstrap and explored more of its features and utility practically.
+
+Additionally, I'm excited to share that I have completed the first course, "Introduction to Front End Developer," out of the 9 course series of the Meta Frontend Professional Certificate.
+
+## Thoughts
+It's always beneficial to revisit the concepts that you've learned before. It helps solidify the knowledge and also uncover any gaps in understanding. Working with Bootstrap was also a fun experience, and I was able to explore more of its features and see how it can be used to create responsive designs.
+
+Completing the first course of the Meta Frontend Pro Certificate is a great accomplishment, and I'm looking forward to learning more about web development and expanding my skills.
+
+## Links
+- Meta Frontend Professional Certificate: [https://example.com/metafrontendpro](https://example.com/metafrontendpro)
+
+## Progress
+I'll be tracking my progress on this GitHub repository.
+
+Looking forward to Day 10!
 
