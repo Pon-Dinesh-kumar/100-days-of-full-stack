@@ -270,3 +270,25 @@ I'll be tracking my progress on this GitHub repository.
 
 Looking forward to Day 10!
 
+# Day 10 [ 11.05.2023 ] - Bootstrap Hands-on
+
+## Today's Progress
+
+Continued my practice with Bootstrap and CSS, and worked on editing a sample portfolio website to learn by doing.
+
+## Thoughts
+
+Day 10 was all about getting more hands-on experience with Bootstrap and CSS. By editing a sample portfolio website, I was able to solidify my understanding of these technologies and apply what I have learned so far. This journey of #100DaysOfCode has been challenging but extremely rewarding, and I'm excited to see where it takes me.
+
+## Links
+
+[Bootstrap](https://getbootstrap.com/)
+[CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
+
+## Progress
+
+I will be tracking my progress on this GitHub repository.
+
+Looking forward to Day 11!
+
+
