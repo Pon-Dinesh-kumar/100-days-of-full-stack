@@ -291,4 +291,15 @@ I will be tracking my progress on this GitHub repository.
 
 Looking forward to Day 11!
 
+# Day 11 [ 12.05.2023 ] - AOS(Animation On Scroll)
+
+## Progress
+Practiced with the demo Bootstrap website from yesterday, focusing on the AOS Library - Animation on Scroll. Tried out all the animations but ran into some issues and errors. Managed to solve them with the help of the internet.
+
+## Thoughts
+Today was a bit challenging, but I'm glad I persisted and solved the problems I encountered. I learned a lot about AOS Library and the different animations it offers.
+
+Looking forward to Day 12!
+
+
 
