@@ -301,5 +301,24 @@ Today was a bit challenging, but I'm glad I persisted and solved the problems I 
 
 Looking forward to Day 12!
 
+# Day 12 [ 13.05.2023 ]: Practicing more with Bootstrap and CSS
 
+## Today's Progress
+
+Continued practicing with Bootstrap and CSS on my demo portfolio page. Plan to start a new topic from Monday, so spending the weekend practicing more. Also, working on another course concurrently.
+
+## Thoughts
+
+I've been enjoying experimenting with different Bootstrap features and seeing how they can enhance the design of my webpage. It's a great feeling when I solve issues and errors on my own with the help of online resources.
+
+## What I Learned
+
+- More about Bootstrap and CSS
+- Improved my problem-solving skills
+
+## Link to Work
+
+No major updates to my GitHub repository today.
+
+#100DaysOfCode
 
