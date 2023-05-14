@@ -322,3 +322,18 @@ No major updates to my GitHub repository today.
 
 #100DaysOfCode
 
+# Day 13 [ 14.05.2023 ]: Practicing more with Bootstrap and CSS
+
+### Progress:
+
+- Completed all due assignments and lab activities from module one of Meta Front End Professional certificate
+- Made changes to my demo portfolio website
+- Prepared to start module two, Introduction to Javascript
+
+### Thoughts:
+
+- Excited to start learning Javascript and further improve my skills
+- Looking forward to more hands-on experience and practice
+- Still have much to learn and looking forward to the challenge!
+
+#100DaysOfCode
