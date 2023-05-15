@@ -337,3 +337,14 @@ No major updates to my GitHub repository today.
 - Still have much to learn and looking forward to the challenge!
 
 #100DaysOfCode
+
+# Day 14 [ 15.05.2023 ]: Introduction To Javascript
+
+### Accomplishments:
+- Completed "Introduction to Programming with JavaScript" module of the Meta Frontend Professional Certificate
+- Learned about real-world applications of JavaScript and why it's a popular language
+- Set up VS Code for JavaScript development
+
+### Thoughts:
+Today's module was a great introduction to JavaScript and its uses. I'm looking forward to diving deeper into the language in the upcoming modules. #100DaysOfCode
+
