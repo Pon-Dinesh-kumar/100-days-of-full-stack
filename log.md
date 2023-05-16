@@ -348,3 +348,17 @@ No major updates to my GitHub repository today.
 ### Thoughts:
 Today's module was a great introduction to JavaScript and its uses. I'm looking forward to diving deeper into the language in the upcoming modules. #100DaysOfCode
 
+Day 15 [16/05/2023] - JavaScript: Building functional programs, scoping with var, let, and const, and introduction to functional programming.
+
+Today's Progress:
+- Explored building functional programs in JavaScript.
+- Learned about scoping with var, let, and const.
+- Introduced to the concept of functional programming.
+
+Thoughts:
+Day 15 was dedicated to diving deeper into JavaScript. It was fascinating to understand how to build functional programs and explore the different scoping mechanisms provided by var, let, and const. The introduction to functional programming opened up new possibilities for creating efficient and modular code.
+
+#100DaysOfCode #JavaScript #FunctionalProgramming #WebDevelopment
+
+
+
